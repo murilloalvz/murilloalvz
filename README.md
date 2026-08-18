@@ -1,17 +1,15 @@
 # Murillo Lourenço
 
-Estudante de **Análise e Desenvolvimento de Sistemas na FATEC Sorocaba**, com foco em construir uma base sólida para atuar com **Dados, Inteligência Artificial e Automação**.
+Estudante de **Análise e Desenvolvimento de Sistemas na FATEC Sorocaba**, atualmente no 4º semestre, com foco em **Dados, Inteligência Artificial e Automação**.
 
-Atualmente desenvolvo projetos práticos em Python, análise de dados e aplicações interativas, buscando transformar estudos em soluções que possam ser demonstradas em portfólio.
+Tenho desenvolvido projetos práticos em Python para transformar os conteúdos que estudo em aplicações reais, passando por análise e visualização de dados, dashboards, consumo de dados externos e organização profissional de projetos com Git e GitHub.
 
-## Foco atual
+## Atualmente
 
-- Análise e visualização de dados com Python
-- Manipulação de dados com Pandas e NumPy
-- Desenvolvimento de dashboards com Streamlit
-- Integração com APIs e automação de processos
-- Git, GitHub e organização profissional de projetos
-- Fundamentos de Machine Learning e Inteligência Artificial
+- Desenvolvendo uma aplicação de **análise do mercado financeiro** com dados reais e interface em Streamlit
+- Aprofundando conhecimentos em **Python, Pandas e análise de dados**
+- Estudando **Python Essentials 2** após concluir o Python Essentials 1 da Cisco
+- Expandindo meus projetos para **automação/RPA, APIs, dados e IA**
 
 ## Tecnologias
 
@@ -23,39 +21,43 @@ Atualmente desenvolvo projetos práticos em Python, análise de dados e aplicaç
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Projetos em destaque
 
 ### [Dashboard Financeiro](https://github.com/murilloalvz/dashboard-financeiro)
-Aplicação web para análise de receitas e despesas, com upload de CSV, validação de dados, filtros, métricas financeiras, gráficos e exportação dos dados processados.
+Aplicação web para análise de receitas e despesas a partir de arquivos CSV. Possui upload e validação de dados, filtros por categoria, indicadores financeiros, visualizações e exportação dos dados processados.
 
-**Stack:** Python, Pandas, Streamlit e Matplotlib.
+**Python • Pandas • Streamlit • Matplotlib**
 
-[Executar aplicação](https://dashboard-financeiro-murilloalvz.streamlit.app/)
+[Ver aplicação online](https://dashboard-financeiro-murilloalvz.streamlit.app/)
 
 ### [Análise do Mercado Financeiro](https://github.com/murilloalvz/analise-mercado-financeiro)
-Projeto em desenvolvimento para coleta, tratamento e análise exploratória de dados reais do mercado financeiro brasileiro.
+Aplicação em desenvolvimento para coleta e análise de dados reais do mercado financeiro. Atualmente calcula retorno do período, retornos diários, volatilidade, médias móveis e apresenta os resultados em uma interface interativa.
 
-**Stack:** Python, Pandas, NumPy, yfinance e Matplotlib.
+**Python • Pandas • yfinance • Matplotlib • Streamlit**
 
-### [Linguagem de Programação II](https://github.com/murilloalvz/LP2)
-Registro acadêmico de atividades desenvolvidas em C# durante a graduação, incluindo fundamentos da linguagem e programação orientada a objetos.
+### Projetos acadêmicos
 
-## Formação e experiência
+Além dos projetos pessoais, mantenho projetos e atividades da graduação envolvendo **C#, Java, Programação Orientada a Objetos, desenvolvimento web e Engenharia de Software**.
 
-- **Análise e Desenvolvimento de Sistemas** — FATEC Sorocaba
-- Experiência prática em suporte de tecnologia no programa **PROATI / SEDUC-SP**
-- Desenvolvimento contínuo de projetos voltados para Dados, IA e automação
+## Formação
 
-## Objetivo profissional
+**Tecnologia em Análise e Desenvolvimento de Sistemas**  
+FATEC Sorocaba — 2025–2027
 
-Busco oportunidades de estágio ou posição inicial em áreas como:
+## Certificações
 
-- Análise de Dados
-- Ciência de Dados
-- Engenharia de Dados
-- Inteligência Artificial
-- Automação de Processos
+- **Python Essentials 1 — Cisco Networking Academy**
+- Python Essentials 2 — em andamento
+
+## Próximos passos
+
+Meu roadmap de estudos e projetos está direcionado para:
+
+`Python` → `Análise de Dados` → `Automação` → `SQL/ETL` → `Machine Learning` → `Inteligência Artificial`
+
+Busco construir uma base sólida em desenvolvimento e dados para oportunidades de estágio e início de carreira nas áreas de **Dados, IA e Automação**.
 
 ## Contato
 
